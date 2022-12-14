@@ -66,15 +66,13 @@ Our repository contains the following directory
 
 Download the following package: `tidyverse`, `gridExtra`, `ModelMetrics`, `caret`, `reshape2`, `pROC`, `effsize`, `ScottKnottESD`
 
-Ubuntu安装R语言教程
+- Ubuntu安装R语言教程
 
 执行以下命令安装A语言执行环境：
 
-sudo apt update
-
-sudo apt -y upgrade
-
-sudo apt -y install r-base
+		sudo apt update
+		sudo apt -y upgrade
+		sudo apt -y install r-base
 
 
 ## Experiment
